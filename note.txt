@@ -1,0 +1,26 @@
+#F85559
+#FFF
+#121212
+
+color: rgba(18, 18, 18, 0.60);
+
+color: rgba(18, 18, 18, 0.80);
+
+#FBC0A8
+
+
+first primary #FFF
+second-primary #F85559
+
+first secondary #121212
+second secondary rgba(18, 18, 18, 0.60)
+
+optional  rgba(18, 18, 18, 0.80)
+
+
+
+                'first-primary': "#FFF",
+              'second-primary': "#F85559",
+              'first-secondary': "#121212",
+              'second-secondary': "rgba(18, 18, 18, 0.60)",
+              'optional': "rgba(18, 18, 18, 0.80)",
